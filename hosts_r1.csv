@@ -1,0 +1,30 @@
+# GLOBAL
+ap-registrar.ruckuswireless.com,443
+sw-registrar.ruckuswireless.com,443
+storage.googleapis.com,443
+registrar.ruckuswireless.com,443
+us-docker.pkg.dev,443
+ocsp.comodoca.com,80
+ocsp.entrust.net,80
+ocsp.godaddy.com,80
+
+# US
+ruckus.cloud,443
+device.ruckus.cloud,443
+device.ruckus.cloud,22
+edge-docker-registry.ruckus.cloud,443
+
+
+# EU
+eu.ruckus.cloud,443
+device.eu.ruckus.cloud,443
+device.eu.ruckus.cloud,22
+edge-docker-registry.eu.ruckus.cloud,443
+
+
+# APAC
+asia.ruckus.cloud,443
+device.asia.ruckus.cloud,443
+device.asia.ruckus.cloud,22
+edge-docker-registry.asia.ruckus.cloud,443
+
